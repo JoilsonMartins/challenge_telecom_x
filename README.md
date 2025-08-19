@@ -20,7 +20,9 @@ Ferramentas, linguagens, bibliotecas e outros recursos usados na resolução do 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ## 🧹 Limpeza e Tratamento de Dados 🧹
 A base de dados foi importada em formato JSON a partir de um repositório do GitHub. Após a importação, o arquivo JSON foi tratado e transformado em um DataFrame. Durante essa etapa, foram realizadas verificações de dados ausentes, normalização, tradução e adaptação das informações, garantindo a qualidade dos dados para análise.
@@ -46,4 +48,4 @@ Com base na análise realizada, recomenda-se que a Telecom X implemente ações 
 * Investir em melhorias nos serviços e suporte ao cliente, visando aumentar a satisfação e a fidelização.
 
 ## 🌟 Veja mais 🌟
-A análise completa pode ser vista atraves do arquivo **Challenge_TelecomX_BR.ipynb**, localizado neste repositório. Execute-o no Google Colab.
+Explore a análise completa no arquivo [Challenge_TelecomX_BR.ipynb](https://github.com/JoilsonMartins/challenge_telecom_x/blob/main/Challenge_TelecomX_BR.ipynb), disponível neste repositório! Este arquivo oferece uma visão aprofundada e detalhada que vai além do resumo apresentado aqui. Ao baixá-lo e executá-lo no Google Colab, você terá a oportunidade de interagir com os dados, visualizar insights valiosos e entender melhor as conclusões.
